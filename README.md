@@ -13,6 +13,6 @@ V - pokaż tykwę
 C - schowaj tykwę
 
 
-N - pokarz podłogę z kostek
+N - pokaż podłogę z kostek
 
 B - schowaj podłogę z kostek
