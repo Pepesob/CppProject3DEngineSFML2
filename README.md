@@ -1,8 +1,10 @@
 # CppProject3DEngineSFML2
 
-Instrukcja:
+Aplikacja jest silnikiem do wyświetlania obiektów 3D.
 
-Sterowanie: WSAD i myszka
+# Instrukcja:
+
+Poruszanie się: WSAD i myszka
 
 
 X - pokaż diament
@@ -18,3 +20,5 @@ C - schowaj tykwę
 N - pokaż podłogę z kostek
 
 B - schowaj podłogę z kostek
+
+R - reset pozycji
