@@ -2,6 +2,8 @@
 
 Instrukcja:
 
+Sterowanie: WSAD i myszka
+
 
 X - pokaż diament
 
